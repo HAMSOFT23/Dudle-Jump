@@ -1,0 +1,27 @@
+{
+    "name": "uNode.CSParser",
+    "rootNamespace": "",
+    "references": [
+        "GUID:23f89c042fe722143bc304ac73a6ffa8",
+        "GUID:30976a8138310934cb73d24a5b8eea7d",
+        "GUID:f3afcc5703789e14da7c8d74de8d9016",
+        "GUID:a083a07444395c0409f4f7799143fc19",
+        "GUID:8750affcd063aae4cba3b626a9dc9cea"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Microsoft.CodeAnalysis.dll",
+        "Microsoft.CodeAnalysis.CSharp.dll",
+        "System.Collections.Immutable.dll",
+        "System.Reflection.Metadata.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
